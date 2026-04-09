@@ -1,0 +1,1 @@
+Welcome to the Basic to Advanced Pandas repository. This repository contains comprehensive materials to help you learn Pandas, a powerful data manipulation library in Python. This repo covers topics from basic to advanced levels, including a quick start guide "5 Minutes to Pandas".
